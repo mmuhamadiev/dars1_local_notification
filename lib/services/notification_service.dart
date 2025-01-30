@@ -47,7 +47,6 @@ class NotificationService {
       requestAlertPermission: true,
       requestBadgePermission: true,
       requestSoundPermission: true,
-      // onDidReceiveLocalNotification: onDidReceiveLocalNotification,
     );
 
     // Initialize global settings
